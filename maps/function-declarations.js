@@ -43,7 +43,7 @@ export const declarations = [
 ];
 
 // WARNING: Do not embed API keys directly in code or publish in source code without restricting API keys to be used by only the IP addresses, referrer URLs, and mobile apps that need them.
-const API_KEY = your_key_here;
+const API_KEY = AIzaSyBQxcyqfL3_uDAsb-A87LsPHHSmfykx_LE;
 // See more at https://developers.google.com/maps/documentation/embed/get-api-key
 
 export function embed(location) {
